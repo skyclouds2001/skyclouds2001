@@ -1,5 +1,5 @@
 skyclouds2001
 
-collage student of XDU
+A collage student of XDU
 
-a frontend learner & developer
+A frontend learner & developer
