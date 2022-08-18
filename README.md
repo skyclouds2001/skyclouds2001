@@ -1,6 +1,6 @@
-#### Hi there, I'm [skyclouds2001](https://skyclouds2001.github.io/). 👋
-
 <div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=skyclouds2001" /> </div>
+
+#### Hi there, I'm [skyclouds2001](https://skyclouds2001.github.io/). 👋
 
 ## Hello
 
@@ -17,7 +17,7 @@ I'm a collage student of XDU and a frontend learner & developer.
 
 ## Actions
 
-<div align="center">
+<div align="left">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=skyclouds2001&count_private=true&theme=graywhite&local=cn&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&show_icons=true&line_height=21" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyclouds2001&layout=compact&langs_count=5&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
