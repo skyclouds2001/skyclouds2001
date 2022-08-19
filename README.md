@@ -2,11 +2,11 @@
 
 #### Hi there, I'm [skyclouds2001](https://skyclouds2001.github.io/). 👋
 
+#### I'm a collage student of XDU and a frontend learner & developer.
+
 #### You are my ![](https://profile-counter.glitch.me/skyclouds2001/count.svg) visitor, Thank You!🎉🎉
 
 ## Hello
-
-I'm a collage student of XDU and a frontend learner & developer.
 
 #### Languages
 
