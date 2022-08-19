@@ -2,7 +2,7 @@
 
 #### I'm a collage student of XDU and a frontend learner & developer.
 
-#### You are my ![]([https://profile-counter.glitch.me/skyclouds2001/count.svg](https://visitor-badge.glitch.me/badge?page_id=skyclouds2001)) visitor, Thank You!🎉🎉
+#### You are my ![](https://profile-counter.glitch.me/skyclouds2001/count.svg) visitor, Thank You!🎉🎉
 
 ## Hello
 
