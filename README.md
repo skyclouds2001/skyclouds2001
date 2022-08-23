@@ -1,8 +1,8 @@
 #### Hi there, I'm [skyclouds2001](https://skyclouds2001.github.io/). 👋
 
-#### I'm a collage student of XDU and a frontend developer and is eager to studying backend.
+#### And I'm a collage student of XDU and a frontend developer and is eager to studying backend.
 
-#### Now I'm curiously studying React and making projects based on Vue.
+#### Now I'm curiously studying React and developing projects based on Vue.
 
 #### You are my ![](https://profile-counter.glitch.me/skyclouds2001/count.svg) visitor, Thank You!🎉🎉
 
