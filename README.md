@@ -1,6 +1,6 @@
 #### Hi there, I'm [skyclouds2001](https://skyclouds2001.github.io/). 👋
 
-#### And I'm a collage student of XDU and a frontend developer and is eager to studying backend.
+#### I'm a collage student of Xidian University and a frontend developer.
 
 #### Now I'm curiously studying React and developing projects based on Vue.
 
