@@ -6,7 +6,7 @@
 
 #### You are my ![](https://profile-counter.glitch.me/skyclouds2001/count.svg) visitor, Thank You!🎉🎉
 
-## Hello
+## Skills
 
 #### Languages
 
