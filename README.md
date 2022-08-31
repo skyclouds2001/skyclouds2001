@@ -48,9 +48,9 @@
 
 ## Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skyclouds2001&repo=frontend-monitor-system&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skyclouds2001&repo=wz-winter&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skyclouds2001&repo=frontend-monitor-system&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skyclouds2001&repo=wz-winter&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skyclouds2001&repo=eslint-config-sky&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skyclouds2001&repo=prettier-config-sky&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skyclouds2001&repo=eslint-config-sky&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skyclouds2001&repo=prettier-config-sky&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
