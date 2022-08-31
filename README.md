@@ -44,6 +44,8 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyclouds2001&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=skyclouds2001&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skyclouds2001&repo=frontend-monitor-system&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
