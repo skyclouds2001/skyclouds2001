@@ -41,7 +41,7 @@
 
 <div align="left">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=skyclouds2001&count_private=true&theme=radical&local=cn&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&show_icons=true&line_height=22" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyclouds2001&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&exclude_repo=skyclouds2001.github.io,skyclouds2001" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyclouds2001&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&exclude_repo=skyclouds2001.github.io,skyclouds2001" />
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=skyclouds2001&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
