@@ -2,7 +2,7 @@
 
 **I'm a collage student of Xidian University and a frontend developer.**
 
-**Now I'm curiously studying React and developing projects based on Vue.**
+**Now I'm studying React and developing projects.**
 
 **You are my ![](https://profile-counter.glitch.me/skyclouds2001/count.svg) visitor, Thank You!🎉🎉**
 
