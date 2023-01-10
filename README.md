@@ -2,7 +2,7 @@
 
 **I'm an undergraduate of XDU and a frontend developer.**
 
-**Now I'm studying Spring tools and working on projects.**
+**Now I'm working on frontend projects and continuing to explore the world of Internet Technology.**
 
 **You are my ![](https://profile-counter.glitch.me/skyclouds2001/count.svg) visitor, Thank You!🎉🎉🎉**
 
