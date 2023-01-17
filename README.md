@@ -49,9 +49,6 @@
 
 ## Projects
 
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=skyclouds2001&repo=frontend-monitor-system&show_owner=true&theme=dark)](https://github.com/skyclouds2001/frontend-monitor-system)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=skyclouds2001&repo=wz-winter&show_owner=true&theme=dark)](https://github.com/skyclouds2001/wz-winter)
-
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=skyclouds2001&repo=eslint-config-sky&show_owner=true&theme=dark)](https://github.com/skyclouds2001/eslint-config-sky)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=skyclouds2001&repo=prettier-config-sky&show_owner=true&theme=dark)](https://github.com/skyclouds2001/prettier-config-sky)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=skyclouds2001&repo=eslint-config-sky&show_owner=true&theme=dark)](https://github.com/skyclouds2001/lint-template-config-sky)
 
