@@ -2,7 +2,7 @@
 
 **I'm an undergraduate of XDU and a frontend developer.**
 
-**Now I'm working on frontend projects and continuing to explore the world of Internet Technology.**
+**Now I'm working on frontend projects and continuing to explore the world of many Internet Technologies.**
 
 **You are my ![](https://profile-counter.glitch.me/skyclouds2001/count.svg) visitor, Thank You!🎉🎉🎉**
 
@@ -51,4 +51,3 @@
 
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=skyclouds2001&repo=wz-winter&show_owner=true&theme=dark)](https://github.com/skyclouds2001/wz-winter)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=skyclouds2001&repo=eslint-config-sky&show_owner=true&theme=dark)](https://github.com/skyclouds2001/lint-template-config-sky)
-
