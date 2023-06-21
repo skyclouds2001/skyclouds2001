@@ -50,4 +50,6 @@
 ## Projects
 
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=skyclouds2001&repo=wz-winter&show_owner=true&theme=dark)](https://github.com/skyclouds2001/wz-winter)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=skyclouds2001&repo=eslint-config-sky&show_owner=true&theme=dark)](https://github.com/skyclouds2001/lint-template-config-sky)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=skyclouds2001&repo=SkyAdmin&show_owner=true&theme=dark)](https://github.com/skyclouds2001/SkyAdmin)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=skyclouds2001&repo=vite-vue-template-sky&show_owner=true&theme=dark)](https://github.com/skyclouds2001/vite-vue-template-sky)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=skyclouds2001&repo=vite-react-template-sky&show_owner=true&theme=dark)](https://github.com/skyclouds2001/vite-react-template-sky)
