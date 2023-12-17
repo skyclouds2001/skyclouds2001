@@ -1,6 +1,6 @@
 ## Hi there, I'm [skyclouds2001](https://skyclouds2001.github.io/). 👋👋👋
 
-**I'm an undergraduate of XDU and a frontend developer.**
+**I'm an undergraduate of XiDian University and a frontend developer.**
 
 **Now I'm working on frontend projects and continuing to explore the world of many Internet Technologies.**
 
