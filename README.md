@@ -1,5 +1,7 @@
 ## Hi there, I'm [skyclouds2001](https://skyclouds2001.github.io/). 👋👋👋
 
+[![wakatime](https://wakatime.com/badge/user/bfadeccb-56c3-4aa2-abb0-89cf5f9b89be.svg)](https://wakatime.com/@bfadeccb-56c3-4aa2-abb0-89cf5f9b89be)
+
 **I'm an undergraduate of XiDian University and a frontend developer.**
 
 **Now I'm working on frontend projects and continuing to explore the world of many Internet Technologies.**
