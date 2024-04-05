@@ -1,6 +1,10 @@
 ## Hi there, I'm [skyclouds2001](https://skyclouds2001.github.io/). 👋👋👋
 
 [![wakatime](https://wakatime.com/badge/user/bfadeccb-56c3-4aa2-abb0-89cf5f9b89be.svg)](https://wakatime.com/@bfadeccb-56c3-4aa2-abb0-89cf5f9b89be)
+[![GitHub followers](https://img.shields.io/github/followers/skyclouds2001?style=flat)](https://github.com/skyclouds2001?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/skyclouds2001?style=flat)](https://github.com/skyclouds2001)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/skyclouds2001)](https://github.com/skyclouds2001)
+![NPM Downloads by package author](https://img.shields.io/npm-stat/dy/sky-fly)
 
 **I'm an undergraduate of XiDian University and a frontend developer.**
 
