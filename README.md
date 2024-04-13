@@ -62,3 +62,4 @@
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=skyclouds2001&repo=wz-winter&show_owner=true&theme=dark)](https://github.com/skyclouds2001/wz-winter)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=skyclouds2001&repo=vite-template-sky&show_owner=true&theme=dark)](https://github.com/skyclouds2001/vite-template-sky)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=skyclouds2001&repo=SkyAdmin&show_owner=true&theme=dark)](https://github.com/skyclouds2001/SkyAdmin)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=skyclouds2001&repo=springboot-template-sky&show_owner=true&theme=dark)](https://github.com/skyclouds2001/springboot-template-sky)
