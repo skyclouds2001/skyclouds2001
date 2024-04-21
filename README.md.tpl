@@ -10,7 +10,7 @@
 
 **Now I'm working on frontend projects and continuing to explore the world of many Internet Technologies.**
 
-**You are my ![](https://profile-counter.glitch.me/skyclouds2001/count.svg) visitor, Thank You!🎉🎉🎉**
+**You are my <img src="https://profile-counter.glitch.me/skyclouds2001/count.svg" width="auto" height="24px" alt="visit-count" style="position: relative; top: 8px;" /> visitor, Thank You!🎉🎉🎉**
 
 **To reach me, please connect me on [skyclouds2001@gmail.com](mailto:skyclouds2001@gmail.com)**
 
@@ -59,14 +59,6 @@
 
 ## Projects
 
-### My recent contributions
-
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
-### My latest projects
-
-{{range recentRepos 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
