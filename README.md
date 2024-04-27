@@ -61,9 +61,9 @@
 
 
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (today)
-- [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (today)
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (2 days ago)
-- [baomidou/mybatis-plus-doc](https://github.com/baomidou/mybatis-plus-doc) - MyBatis-Plus Official Documentation (2 days ago)
+- [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (1 day ago)
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (3 days ago)
+- [baomidou/mybatis-plus-doc](https://github.com/baomidou/mybatis-plus-doc) - MyBatis-Plus Official Documentation (3 days ago)
 - [skyclouds2001/vite-react-template-sky](https://github.com/skyclouds2001/vite-react-template-sky) - An opinionated vite starter template for React. (1 week ago)
 - [skyclouds2001/vite-vue-template-sky](https://github.com/skyclouds2001/vite-vue-template-sky) - An opinionated vite starter template for Vue. (1 week ago)
 - [skyclouds2001/springboot-template-sky](https://github.com/skyclouds2001/springboot-template-sky) - An opinionated springboot starter template. (1 week ago)
