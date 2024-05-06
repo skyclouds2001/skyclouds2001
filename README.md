@@ -69,4 +69,4 @@
 - [baomidou/mybatis-plus-doc](https://github.com/baomidou/mybatis-plus-doc) - MyBatis-Plus Official Documentation (1 week ago)
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs (1 month ago)
 - [skyclouds2001/skyclouds2001.github.io](https://github.com/skyclouds2001/skyclouds2001.github.io) - Personal blog for CSY (1 month ago)
-- [skyclouds2001/vite-template-sky](https://github.com/skyclouds2001/vite-template-sky) - A Project-Start Template for Vite (1 month ago)
+- [vuejs/docs](https://github.com/vuejs/docs) - 📄 Documentation for Vue 3 (1 month ago)
