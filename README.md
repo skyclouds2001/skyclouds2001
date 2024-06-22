@@ -60,9 +60,9 @@
 ## Projects
 
 
-- [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (2 days ago)
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (4 days ago)
-- [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs (6 days ago)
+- [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (3 days ago)
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (5 days ago)
+- [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs (1 week ago)
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (1 week ago)
 - [xiaoymin/knife4j](https://github.com/xiaoymin/knife4j) - Knife4j is a set of Swagger2 and OpenAPI3 All-in-one enhancement solution (2 weeks ago)
 - [skyclouds2001/skyclouds2001.github.io](https://github.com/skyclouds2001/skyclouds2001.github.io) - Personal blog for CSY (1 month ago)
