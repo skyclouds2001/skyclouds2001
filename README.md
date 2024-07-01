@@ -61,7 +61,7 @@
 
 
 - [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (1 week ago)
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (1 week ago)
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (2 weeks ago)
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs (2 weeks ago)
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (2 weeks ago)
 - [xiaoymin/knife4j](https://github.com/xiaoymin/knife4j) - Knife4j is a set of Swagger2 and OpenAPI3 All-in-one enhancement solution (4 weeks ago)
