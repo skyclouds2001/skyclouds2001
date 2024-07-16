@@ -61,7 +61,7 @@
 
 
 - [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (today)
-- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (3 days ago)
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (today)
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (1 week ago)
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs (1 month ago)
 - [skyclouds2001/skyclouds2001.github.io](https://github.com/skyclouds2001/skyclouds2001.github.io) - Personal blog for CSY (1 month ago)
