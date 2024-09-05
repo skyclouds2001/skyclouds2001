@@ -6,9 +6,9 @@
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/skyclouds2001)](https://github.com/skyclouds2001)
 ![NPM Downloads by package author](https://img.shields.io/npm-stat/dy/sky-fly)
 
-**I'm an undergraduate of XiDian University and a frontend developer.**
+**I'm an graduate of XiDian University and a frontend developer.**
 
-**Now I'm working on frontend projects and continuing to explore the world of many Internet Technologies.**
+**Now I'm working on frontend projects and continuing to explore the world of many interesting technologies.**
 
 **You are my <img src="https://profile-counter.glitch.me/skyclouds2001/count.svg" width="auto" height="24px" alt="visit-count" style="position: relative; top: 8px;" /> visitor, Thank You!🎉🎉🎉**
 
