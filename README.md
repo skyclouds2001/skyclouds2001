@@ -61,6 +61,7 @@
 
 
 - [skyclouds2001/DataStructureAndAlgorithms](https://github.com/skyclouds2001/DataStructureAndAlgorithms) - 数据结构和算法刷题 (today)
+- [skyclouds2001/taro-template-sky](https://github.com/skyclouds2001/taro-template-sky) -  (today)
 - [skyclouds2001/vite-vue-template-sky](https://github.com/skyclouds2001/vite-vue-template-sky) - An opinionated vite starter template for Vue. (today)
 - [skyclouds2001/vite-react-template-sky](https://github.com/skyclouds2001/vite-react-template-sky) - An opinionated vite starter template for React. (today)
 - [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (1 day ago)
@@ -69,4 +70,3 @@
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (5 days ago)
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (2 months ago)
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs (2 months ago)
-- [xiaoymin/knife4j](https://github.com/xiaoymin/knife4j) - Knife4j is a set of Swagger2 and OpenAPI3 All-in-one enhancement solution (3 months ago)
