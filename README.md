@@ -53,7 +53,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=skyclouds2001&count_private=true&theme=radical&local=cn&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&show_icons=true&line_height=22)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=skyclouds2001&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&layout=compact&exclude_repo=skyclouds2001,skyclouds2001.github.io,skyclouds2001-blog,uApply,experiment-helper-core,experiment-helper-mobile,hexo-theme-fantastic)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=skyclouds2001&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&layout=compact&exclude_repo=skyclouds2001,skyclouds2001.github.io,skyclouds2001-blog)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=skyclouds2001&theme=onedark)
 
