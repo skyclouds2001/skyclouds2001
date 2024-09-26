@@ -67,6 +67,6 @@
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (1 day ago)
 - [skyclouds2001/DataStructureAndAlgorithms](https://github.com/skyclouds2001/DataStructureAndAlgorithms) - 数据结构和算法刷题 (2 days ago)
 - [skyclouds2001/vite-react-template-sky](https://github.com/skyclouds2001/vite-react-template-sky) - An opinionated vite starter template for React. (3 days ago)
-- [skyclouds2001/springboot-template-sky](https://github.com/skyclouds2001/springboot-template-sky) - An opinionated springboot starter template. (3 days ago)
 - [skyclouds2001/vite-vue-template-sky](https://github.com/skyclouds2001/vite-vue-template-sky) - An opinionated vite starter template for Vue. (3 days ago)
+- [skyclouds2001/springboot-template-sky](https://github.com/skyclouds2001/springboot-template-sky) - An opinionated springboot starter template. (3 days ago)
 - [jdf2e/nutui](https://github.com/jdf2e/nutui) - 京东风格的移动端 Vue 组件库，支持多端小程序(A Vue.js UI Toolkit for Mobile Web) (1 week ago)
