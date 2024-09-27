@@ -6,7 +6,7 @@
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/skyclouds2001)](https://github.com/skyclouds2001)
 ![NPM Downloads by package author](https://img.shields.io/npm-stat/dy/sky-fly)
 
-**I'm a graduate of XiDian University and a frontend developer.**
+**I'm an graduate of XiDian University and a frontend developer.**
 
 **Now I'm working on frontend projects and continuing to explore the world of many interesting technologies.**
 
@@ -67,6 +67,6 @@
 - [babel/website](https://github.com/babel/website) - :globe_with_meridians: The Babel documentation website (2 days ago)
 - [skyclouds2001/DataStructureAndAlgorithms](https://github.com/skyclouds2001/DataStructureAndAlgorithms) - 数据结构和算法刷题 (3 days ago)
 - [skyclouds2001/vite-react-template-sky](https://github.com/skyclouds2001/vite-react-template-sky) - An opinionated vite starter template for React. (4 days ago)
-- [skyclouds2001/vite-vue-template-sky](https://github.com/skyclouds2001/vite-vue-template-sky) - An opinionated vite starter template for Vue. (4 days ago)
 - [skyclouds2001/springboot-template-sky](https://github.com/skyclouds2001/springboot-template-sky) - An opinionated springboot starter template. (4 days ago)
+- [skyclouds2001/vite-vue-template-sky](https://github.com/skyclouds2001/vite-vue-template-sky) - An opinionated vite starter template for Vue. (4 days ago)
 - [jdf2e/nutui](https://github.com/jdf2e/nutui) - 京东风格的移动端 Vue 组件库，支持多端小程序(A Vue.js UI Toolkit for Mobile Web) (1 week ago)
