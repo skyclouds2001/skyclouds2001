@@ -55,7 +55,7 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=skyclouds2001&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&layout=compact&exclude_repo=skyclouds2001,skyclouds2001.github.io,skyclouds2001-blog)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=skyclouds2001&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=skyclouds2001&theme=onedark&row=3&column=3)
 
 ## Projects
 
