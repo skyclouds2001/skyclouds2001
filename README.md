@@ -61,7 +61,7 @@
 
 
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (today)
-- [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (1 day ago)
+- [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (today)
 - [skyclouds2001/skyclouds2001.github.io](https://github.com/skyclouds2001/skyclouds2001.github.io) - Personal blog for CSY (3 days ago)
 - [skyclouds2001/i18n-transform-cli](https://github.com/skyclouds2001/i18n-transform-cli) -  (3 days ago)
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs (4 days ago)
