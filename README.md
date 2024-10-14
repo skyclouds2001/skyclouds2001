@@ -60,6 +60,7 @@
 ## Projects
 
 
+- [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (today)
 - [skyclouds2001/rollup-template-sky](https://github.com/skyclouds2001/rollup-template-sky) - An opinionated rollup starter template. (1 day ago)
 - [skyclouds2001/vite-react-template-sky](https://github.com/skyclouds2001/vite-react-template-sky) - An opinionated vite starter template for React. (1 day ago)
 - [skyclouds2001/vite-vue-template-sky](https://github.com/skyclouds2001/vite-vue-template-sky) - An opinionated vite starter template for Vue. (1 day ago)
@@ -67,6 +68,5 @@
 - [skyclouds2001/navigation-router](https://github.com/skyclouds2001/navigation-router) -  (1 day ago)
 - [skyclouds2001/vite-template-sky](https://github.com/skyclouds2001/vite-template-sky) - A Project-Start Template for Vite (1 day ago)
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (2 days ago)
-- [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (3 days ago)
 - [skyclouds2001/i18n-transform-cli](https://github.com/skyclouds2001/i18n-transform-cli) -  (4 days ago)
 - [skyclouds2001/skyclouds2001.github.io](https://github.com/skyclouds2001/skyclouds2001.github.io) - Personal blog for CSY (4 days ago)
