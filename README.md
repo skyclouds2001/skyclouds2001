@@ -69,4 +69,4 @@
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs (4 days ago)
 - [skyclouds2001/DataStructureAndAlgorithms](https://github.com/skyclouds2001/DataStructureAndAlgorithms) - 数据结构和算法刷题 (5 days ago)
 - [skyclouds2001/navigation-router](https://github.com/skyclouds2001/navigation-router) -  (6 days ago)
-- [skyclouds2001/springboot-template-sky](https://github.com/skyclouds2001/springboot-template-sky) - An opinionated springboot starter template. (1 week ago)
+- [skyclouds2001/vite-react-template-sky](https://github.com/skyclouds2001/vite-react-template-sky) - An opinionated vite starter template for React. (1 week ago)
