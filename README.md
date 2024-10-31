@@ -61,7 +61,8 @@
 
 
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (today)
-- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (1 day ago)
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (today)
+- [skyclouds2001/template-sky](https://github.com/skyclouds2001/template-sky) - An opinionated starter template for vite or rollup with a cli to generate template project. (today)
 - [skyclouds2001/skyclouds2001.github.io](https://github.com/skyclouds2001/skyclouds2001.github.io) - Personal blog for CSY (2 days ago)
 - [skyclouds2001/rollup-template-sky](https://github.com/skyclouds2001/rollup-template-sky) - An opinionated rollup starter template. (5 days ago)
 - [skyclouds2001/storage-buckets-polyfill](https://github.com/skyclouds2001/storage-buckets-polyfill) -  (6 days ago)
@@ -69,4 +70,3 @@
 - [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies (1 week ago)
 - [skyclouds2001/DataStructureAndAlgorithms](https://github.com/skyclouds2001/DataStructureAndAlgorithms) - 数据结构和算法刷题 (1 week ago)
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs (2 weeks ago)
-- [skyclouds2001/navigation-router](https://github.com/skyclouds2001/navigation-router) -  (2 weeks ago)
