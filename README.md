@@ -60,11 +60,11 @@
 ## Projects
 
 
-- [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (today)
-- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (1 day ago)
-- [skyclouds2001/skyclouds2001.github.io](https://github.com/skyclouds2001/skyclouds2001.github.io) - Personal blog for CSY (3 days ago)
-- [skyclouds2001/navigation-router](https://github.com/skyclouds2001/navigation-router) -  (4 days ago)
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (4 days ago)
+- [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (1 day ago)
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (2 days ago)
+- [skyclouds2001/skyclouds2001.github.io](https://github.com/skyclouds2001/skyclouds2001.github.io) - Personal blog for CSY (4 days ago)
+- [skyclouds2001/navigation-router](https://github.com/skyclouds2001/navigation-router) -  (5 days ago)
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (5 days ago)
 - [skyclouds2001/rollup-template-sky](https://github.com/skyclouds2001/rollup-template-sky) - An opinionated rollup starter template. (1 week ago)
 - [skyclouds2001/springboot-template-sky](https://github.com/skyclouds2001/springboot-template-sky) - An opinionated springboot starter template. (1 week ago)
 - [skyclouds2001/template-sky](https://github.com/skyclouds2001/template-sky) - An opinionated starter template for vite or rollup with a cli to generate template project. (1 week ago)
