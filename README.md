@@ -60,9 +60,9 @@
 ## Projects
 
 
+- [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (today)
 - [skyclouds2001/storage-buckets-polyfill](https://github.com/skyclouds2001/storage-buckets-polyfill) -  (today)
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (today)
-- [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (1 day ago)
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (1 day ago)
 - [skyclouds2001/mdn-tools](https://github.com/skyclouds2001/mdn-tools) -  (1 day ago)
 - [skyclouds2001/vite-react-template-sky](https://github.com/skyclouds2001/vite-react-template-sky) - An opinionated vite starter template for React. (4 days ago)
