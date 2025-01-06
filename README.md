@@ -60,8 +60,8 @@
 ## Projects
 
 
+- [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies (today)
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (today)
-- [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies (1 day ago)
 - [skyclouds2001/skyclouds2001.github.io](https://github.com/skyclouds2001/skyclouds2001.github.io) - Personal blog for CSY (1 day ago)
 - [skyclouds2001/mdn-tools](https://github.com/skyclouds2001/mdn-tools) -  (1 day ago)
 - [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (2 days ago)
