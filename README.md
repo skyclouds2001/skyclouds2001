@@ -60,11 +60,11 @@
 ## Projects
 
 
+- [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (today)
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (1 day ago)
 - [skyclouds2001/mdn-tools](https://github.com/skyclouds2001/mdn-tools) -  (2 days ago)
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (4 days ago)
 - [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies (5 days ago)
-- [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (6 days ago)
 - [mdn/interactive-examples](https://github.com/mdn/interactive-examples) - Home of the MDN live code editor interactive examples (1 week ago)
 - [skyclouds2001/skyclouds2001.github.io](https://github.com/skyclouds2001/skyclouds2001.github.io) - Personal blog for CSY (2 weeks ago)
 - [skyclouds2001/springboot-template-sky](https://github.com/skyclouds2001/springboot-template-sky) - An opinionated springboot starter template. (3 weeks ago)
