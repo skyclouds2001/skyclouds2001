@@ -69,4 +69,4 @@
 - [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (1 week ago)
 - [mdn/interactive-examples](https://github.com/mdn/interactive-examples) - Home of the MDN live code editor interactive examples (3 weeks ago)
 - [skyclouds2001/springboot-template-sky](https://github.com/skyclouds2001/springboot-template-sky) - An opinionated springboot starter template. (1 month ago)
-- [skyclouds2001/vite-vue-template-sky](https://github.com/skyclouds2001/vite-vue-template-sky) - An opinionated vite starter template for Vue. (1 month ago)
+- [skyclouds2001/rollup-template-sky](https://github.com/skyclouds2001/rollup-template-sky) - An opinionated rollup starter template. (1 month ago)
