@@ -69,4 +69,4 @@
 - [mdn/awesome](https://github.com/mdn/awesome) - A curated list of awesome things related to MDN. (3 weeks ago)
 - [mdn/interactive-examples](https://github.com/mdn/interactive-examples) - Home of the MDN live code editor interactive examples (1 month ago)
 - [skyclouds2001/template-sky](https://github.com/skyclouds2001/template-sky) - An opinionated starter template for vite or rollup with a cli to generate template project. (1 month ago)
-- [skyclouds2001/rollup-template-sky](https://github.com/skyclouds2001/rollup-template-sky) - An opinionated rollup starter template. (1 month ago)
+- [skyclouds2001/vite-vue-template-sky](https://github.com/skyclouds2001/vite-vue-template-sky) - An opinionated vite starter template for Vue. (1 month ago)
