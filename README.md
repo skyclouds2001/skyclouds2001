@@ -60,10 +60,10 @@
 ## Projects
 
 
+- [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (today)
 - [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies (1 day ago)
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (1 day ago)
 - [skyclouds2001/mdn-tools](https://github.com/skyclouds2001/mdn-tools) -  (2 days ago)
-- [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (3 days ago)
 - [skyclouds2001/template-sky](https://github.com/skyclouds2001/template-sky) - An opinionated starter template for vite or rollup with a cli to generate template project. (1 week ago)
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (2 weeks ago)
 - [skyclouds2001/vite-react-template-sky](https://github.com/skyclouds2001/vite-react-template-sky) - An opinionated vite starter template for React. (4 weeks ago)
