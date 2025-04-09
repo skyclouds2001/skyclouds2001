@@ -60,7 +60,7 @@
 ## Projects
 
 
-- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (2 days ago)
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (today)
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (2 days ago)
 - [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies (2 days ago)
 - [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (3 days ago)
