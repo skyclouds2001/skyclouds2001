@@ -60,10 +60,10 @@
 ## Projects
 
 
-- [csstree/csstree](https://github.com/csstree/csstree) - A tool set for CSS including fast detailed parser, walker, generator and lexer based on W3C specs and browser implementations (5 days ago)
+- [csstree/csstree](https://github.com/csstree/csstree) - A tool set for CSS including fast detailed parser, walker, generator and lexer based on W3C specs and browser implementations (6 days ago)
 - [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (1 week ago)
-- [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies (1 week ago)
-- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (1 week ago)
+- [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies (2 weeks ago)
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (2 weeks ago)
 - [skyclouds2001/mdn-tools](https://github.com/skyclouds2001/mdn-tools) -  (2 weeks ago)
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - Browser compatibility data for Web technologies as displayed on MDN (2 weeks ago)
 - [skyclouds2001/vite-react-template-sky](https://github.com/skyclouds2001/vite-react-template-sky) - An opinionated vite starter template for React. (1 month ago)
