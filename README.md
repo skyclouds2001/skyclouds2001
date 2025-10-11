@@ -60,7 +60,7 @@
 ## Projects
 
 
-- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (today)
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (1 day ago)
 - [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies (1 week ago)
 - [skyclouds2001/local-web-server](https://github.com/skyclouds2001/local-web-server) -  (2 months ago)
 - [skyclouds2001/mdn-tools](https://github.com/skyclouds2001/mdn-tools) -  (3 months ago)
