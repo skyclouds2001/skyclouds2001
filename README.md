@@ -60,8 +60,8 @@
 ## Projects
 
 
-- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (3 days ago)
-- [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies (1 week ago)
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (4 days ago)
+- [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies (2 weeks ago)
 - [skyclouds2001/local-web-server](https://github.com/skyclouds2001/local-web-server) -  (2 months ago)
 - [skyclouds2001/mdn-tools](https://github.com/skyclouds2001/mdn-tools) -  (4 months ago)
 - [skyclouds2001/vite-react-template-sky](https://github.com/skyclouds2001/vite-react-template-sky) - An opinionated vite starter template for React. (4 months ago)
