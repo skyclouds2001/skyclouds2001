@@ -60,7 +60,7 @@
 ## Projects
 
 
-- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs (1 week ago)
+- [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more. (1 week ago)
 - [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies (2 weeks ago)
 - [skyclouds2001/local-web-server](https://github.com/skyclouds2001/local-web-server) -  (2 months ago)
 - [skyclouds2001/mdn-tools](https://github.com/skyclouds2001/mdn-tools) -  (4 months ago)
