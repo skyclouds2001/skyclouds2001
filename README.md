@@ -69,4 +69,4 @@
 - [skyclouds2001/vite-vue-template-sky](https://github.com/skyclouds2001/vite-vue-template-sky) - An opinionated vite starter template for Vue. (6 months ago)
 - [skyclouds2001/vite-react-template-sky](https://github.com/skyclouds2001/vite-react-template-sky) - An opinionated vite starter template for React. (6 months ago)
 - [skyclouds2001/springboot-template-sky](https://github.com/skyclouds2001/springboot-template-sky) - An opinionated springboot starter template. (6 months ago)
-- [NervJS/taro-docs](https://github.com/NervJS/taro-docs) - Taro 文档 (6 months ago)
+- [NervJS/taro-docs](https://github.com/NervJS/taro-docs) - Taro 文档 (7 months ago)
