@@ -69,4 +69,4 @@
 - [skyclouds2001/template-sky](https://github.com/skyclouds2001/template-sky) - An opinionated starter template for vite or rollup with a cli to generate template project. (8 months ago)
 - [skyclouds2001/rollup-template-sky](https://github.com/skyclouds2001/rollup-template-sky) - An opinionated rollup starter template. (8 months ago)
 - [skyclouds2001/vite-vue-template-sky](https://github.com/skyclouds2001/vite-vue-template-sky) - An opinionated vite starter template for Vue. (8 months ago)
-- [NervJS/taro-docs](https://github.com/NervJS/taro-docs) - Taro 文档 (8 months ago)
+- [NervJS/taro-docs](https://github.com/NervJS/taro-docs) - Taro 文档 (9 months ago)
