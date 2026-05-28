@@ -62,7 +62,7 @@
 
 - [csstree/csstree](https://github.com/csstree/csstree) - A tool set for CSS including fast detailed parser, walker, generator and lexer based on W3C specs and browser implementations (2 months ago)
 - [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more. (7 months ago)
-- [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies (7 months ago)
+- [mdn/data](https://github.com/mdn/data) - This repository contains general data for Web technologies (8 months ago)
 - [skyclouds2001/local-web-server](https://github.com/skyclouds2001/local-web-server) -  (10 months ago)
 - [skyclouds2001/mdn-tools](https://github.com/skyclouds2001/mdn-tools) -  (11 months ago)
 - [skyclouds2001/template-sky](https://github.com/skyclouds2001/template-sky) - An opinionated starter template for vite or rollup with a cli to generate template project. (11 months ago)
