@@ -6,8 +6,6 @@
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/skyclouds2001)](https://github.com/skyclouds2001)
 ![NPM Downloads by package author](https://img.shields.io/npm-stat/dy/sky-fly)
 
-[![Top Committer](https://api.star-history.com/badge?user=skyclouds2001&year=2024)](https://www.star-history.com/skyclouds2001)
-
 **I'm a graduate of XiDian University and a frontend developer.**
 
 **Now I'm working on frontend projects and continuing to explore the world of many interesting technologies.**
@@ -56,6 +54,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats-skyclouds.vercel.app/api?username=skyclouds2001&count_private=true&theme=onedark&show_icons=true&cache_seconds=3600&exclude_repo=skyclouds2001,skyclouds2001.github.io,skyclouds2001-blog,uApply,experiment-helper-core,experiment-helper-mobile,hexo-theme-fantastic)
 
 ![Top Langs](https://github-readme-stats-skyclouds.vercel.app/api/top-langs?username=skyclouds2001&count_private=true&theme=onedark&show_icons=true&cache_seconds=3600&exclude_repo=skyclouds2001,skyclouds2001.github.io,skyclouds2001-blog,uApply,experiment-helper-core,experiment-helper-mobile,hexo-theme-fantastic&langs_count=10&layout=compact)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=skyclouds2001&theme=onedark&row=3&column=3)
 
 ## Projects
 
